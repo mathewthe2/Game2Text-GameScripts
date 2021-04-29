@@ -11,6 +11,6 @@ To contribute, start a new issue with your game script file.
 ## Usage
 
 ## Acknowledgements
-Jo-Mako
+[Jo-Mako](https://sites.google.com/view/jo-mako/home)
 
-Unboxious
+[Unboxious](https://github.com/AndersenJ)
