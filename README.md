@@ -5,11 +5,14 @@ Game scripts are text files with each dialogue on a new line. They are required 
 To contribute, start a new issue with your game script file.
 
 ## List of Games
-- Animal Crossing New Horizons.txt
+- Animal Crossing New Horizons
 - CrossCode
+- Nier.Automata
+- Nier.Replicant
 - Persona 4
 - Pokémon Mystery Dungeon Rescue Team DX
 - Pokémon Sword and Shield
+- STORY OF SEASONS Friends of Mineral Town
 - Valkyria Chronicles 4
 
 ## Usage
@@ -25,3 +28,5 @@ To contribute, start a new issue with your game script file.
 [Jo-Mako](https://sites.google.com/view/jo-mako/home)
 
 [Unboxious](https://github.com/AndersenJ)
+
+[ShadowVolt](https://github.com/ShadowVolt)
