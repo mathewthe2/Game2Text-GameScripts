@@ -5,15 +5,15 @@ Game scripts are text files with each dialogue on a new line. They are required 
 To contribute, start a new issue with your game script file.
 
 ## List of Games
-- Animal Crossing New Horizons
-- CrossCode
-- Nier Automata
-- Nier Replicant
-- Persona 4
-- Pokémon Mystery Dungeon Rescue Team DX
-- Pokémon Sword and Shield
-- STORY OF SEASONS Friends of Mineral Town
-- Valkyria Chronicles 4
+- [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
+- [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
+- [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Automata.txt)
+- [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Replicant.txt)
+- [Persona 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%204.txt)
+- [Pokémon Mystery Dungeon Rescue Team DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pokemon%20Mystery%20Dungeon%20Rescue%20Team%20DX.txt)
+- [Pokémon Sword and Shield](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pok%C3%A9mon%20Sword%20%26%20Shield.txt)
+- [STORY OF SEASONS Friends of Mineral Town](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/STORY%20OF%20SEASONS%20Friends%20of%20Mineral%20Town.txt)
+- [Valkyria Chronicles 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Valkyria%20Chronicles%204.txt)
 
 ## Usage
 
