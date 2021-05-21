@@ -7,8 +7,8 @@ To contribute, start a new issue with your game script file.
 ## List of Games
 - Animal Crossing New Horizons
 - CrossCode
-- Nier.Automata
-- Nier.Replicant
+- Nier Automata
+- Nier Replicant
 - Persona 4
 - Pokémon Mystery Dungeon Rescue Team DX
 - Pokémon Sword and Shield
