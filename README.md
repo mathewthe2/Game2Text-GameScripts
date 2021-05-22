@@ -2,10 +2,11 @@
 
 Game scripts are text files with each dialogue on a new line. They are required for OCR-assisted script matching in Game2Text.
 
-To contribute, start a new issue with your game script file.
+To contribute, start a new issue with your game script file, or make a pull request.
 
 ## List of Games
 - [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
+- [Baldr Sky Dive1 “Lost Memory”](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Baldr%20Sky%20Dive1%20%E2%80%9CLost%20Memory%E2%80%9D.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Replicant.txt)
