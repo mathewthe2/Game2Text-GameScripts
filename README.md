@@ -1,15 +1,18 @@
 # Game2Text-GameScripts
 
-Game scripts are text files with each dialogue on a new line. They are required for OCR-assisted script matching in Game2Text.
+Game scripts are text files with each dialogue on a new line. They are required for OCR-assisted script matching in [Game2Text](https://github.com/mathewthe2/Game2Text).
 
-To contribute, start a new issue with your game script file.
+To contribute, start a new issue with your game script file, or make a pull request.
 
 ## List of Games
 - [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
+- [Baldr Sky Dive1 “Lost Memory”](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Baldr%20Sky%20Dive1%20%E2%80%9CLost%20Memory%E2%80%9D.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Replicant.txt)
 - [Persona 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%204.txt)
+- [Persona 5](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%205.txt)
+- [Pokémon Mystery Dungeon Explorers of Sky](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pokemon%20Mystery%20Dungeon%20Explorers%20of%20Sky.txt)
 - [Pokémon Mystery Dungeon Rescue Team DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pokemon%20Mystery%20Dungeon%20Rescue%20Team%20DX.txt)
 - [Pokémon Sword and Shield](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pok%C3%A9mon%20Sword%20%26%20Shield.txt)
 - [STORY OF SEASONS Friends of Mineral Town](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/STORY%20OF%20SEASONS%20Friends%20of%20Mineral%20Town.txt)
