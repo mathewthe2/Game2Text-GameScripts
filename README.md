@@ -7,6 +7,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 ## List of Games
 - [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
 - [Baldr Sky Dive1 “Lost Memory”](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Baldr%20Sky%20Dive1%20%E2%80%9CLost%20Memory%E2%80%9D.txt)
+- [Ciel Nosurge DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Ciel%20Nosurge%20DX.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier.Replicant.txt)
@@ -17,6 +18,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Pokémon Sword and Shield](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pok%C3%A9mon%20Sword%20%26%20Shield.txt)
 - [STORY OF SEASONS Friends of Mineral Town](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/STORY%20OF%20SEASONS%20Friends%20of%20Mineral%20Town.txt)
 - [Valkyria Chronicles 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Valkyria%20Chronicles%204.txt)
+- [Xenoblade Chronicles: Definitive Edition](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Xenoblade%201%20DE.txt)
 
 ## Usage
 
