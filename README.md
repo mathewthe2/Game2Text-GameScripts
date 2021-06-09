@@ -20,6 +20,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Pokémon Sword and Shield](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pok%C3%A9mon%20Sword%20%26%20Shield.txt)
 - [STORY OF SEASONS Friends of Mineral Town](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/STORY%20OF%20SEASONS%20Friends%20of%20Mineral%20Town.txt)
 - [Umineko no Naku Koro ni Saku](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Umineko%20Saku.txt)
+- [Usotsuki Hime to Moumoku Ouji](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Usotsuki%20Hime%20to%20Moumoku%20Ouji.txt)
 - [Valkyria Chronicles 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Valkyria%20Chronicles%204.txt)
 - [Xenoblade Chronicles: Definitive Edition](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Xenoblade%201%20DE.txt)
 
