@@ -23,6 +23,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Usotsuki Hime to Moumoku Ouji](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Usotsuki%20Hime%20to%20Moumoku%20Ouji.txt)
 - [Valkyria Chronicles 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Valkyria%20Chronicles%204.txt)
 - [Xenoblade Chronicles: Definitive Edition](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Xenoblade%201%20DE.txt)
+- [Ys IX: Monstrum Nox](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Ys%20IX%20-%20Monstrum%20Nox.txt)
 
 ## Usage
 
