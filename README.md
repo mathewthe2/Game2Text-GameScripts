@@ -11,6 +11,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [CLANNAD](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CLANNAD.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
 - [Monster Hunter Rise](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Monster%20Hunter%20Rise.txt)
+- [Narcissu](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Narcissu.txt)
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Replicant.txt)
 - [Persona 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%204.txt)
