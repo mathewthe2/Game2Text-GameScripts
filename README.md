@@ -7,6 +7,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 ## List of Games
 - [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
 - [Baldr Sky Dive1 “Lost Memory”](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Baldr%20Sky%20Dive1%20%E2%80%9CLost%20Memory%E2%80%9D.txt)
+- [Chrono Trigger](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/ChronoTriggerJapaneseScript.txt)
 - [Ciel Nosurge DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Ciel%20Nosurge%20DX.txt)
 - [CLANNAD](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CLANNAD.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
