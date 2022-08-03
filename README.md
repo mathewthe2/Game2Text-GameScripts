@@ -35,6 +35,13 @@ To contribute, start a new issue with your game script file, or make a pull requ
 3. Select Script.
 4. Whenever you recognize a line of text, Game2Text will now run it against the game logs and match the best ones. Click on the dropdown arrow on the log window to select the match.
 
+## Related
+
+- [Detroit Become Human](https://github.com/detroitbecometext/detroitbecometext.github.io)
+- [Fire Emblem: Three Houses](https://fedatamine.com/ja/)
+- [Trails in the Database](https://trailsinthedatabase.com/)
+
+
 ## Acknowledgements
 [Jo-Mako](https://sites.google.com/view/jo-mako/home)
 
