@@ -7,10 +7,12 @@ To contribute, start a new issue with your game script file, or make a pull requ
 ## List of Games
 - [Animal Crossing New Horizons](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Animal%20Crossing%20New%20Horizons.txt)
 - [Baldr Sky Dive1 “Lost Memory”](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Baldr%20Sky%20Dive1%20%E2%80%9CLost%20Memory%E2%80%9D.txt)
+- [Chrono Trigger](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/ChronoTriggerJapaneseScript.txt)
 - [Ciel Nosurge DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Ciel%20Nosurge%20DX.txt)
 - [CLANNAD](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CLANNAD.txt)
 - [CrossCode](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/CrossCode.txt)
 - [Monster Hunter Rise](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Monster%20Hunter%20Rise.txt)
+- [Narcissu](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Narcissu.txt)
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Replicant.txt)
 - [Persona 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%204.txt)
@@ -33,6 +35,13 @@ To contribute, start a new issue with your game script file, or make a pull requ
 2. Transfer script to the *game2text/gamescripts/* folder or install them by clicking on the folder icon on the top of the logs window.
 3. Select Script.
 4. Whenever you recognize a line of text, Game2Text will now run it against the game logs and match the best ones. Click on the dropdown arrow on the log window to select the match.
+
+## Related
+
+- [Detroit Become Human](https://github.com/detroitbecometext/detroitbecometext.github.io)
+- [Fire Emblem: Three Houses](https://fedatamine.com/ja/)
+- [Trails in the Database](https://trailsinthedatabase.com/)
+
 
 ## Acknowledgements
 [Jo-Mako](https://sites.google.com/view/jo-mako/home)
