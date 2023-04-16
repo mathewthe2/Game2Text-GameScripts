@@ -41,6 +41,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Detroit Become Human](https://github.com/detroitbecometext/detroitbecometext.github.io)
 - [Fire Emblem: Three Houses](https://fedatamine.com/ja/)
 - [Trails in the Database](https://trailsinthedatabase.com/)
+- [Agent scripts](https://github.com/0xDC00/scripts)
 
 
 ## Acknowledgements
