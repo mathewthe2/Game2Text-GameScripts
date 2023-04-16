@@ -16,7 +16,8 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Nier Automata](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Automata.txt)
 - [Nier Replicant](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Nier%20Replicant.txt)
 - [Persona 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%204.txt)
-- [Persona 5](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%205.txt)
+- [Persona 5 (ps3)](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%205.txt)
+- [Persona 5 Royal](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Persona%205%20Royal.txt)
 - [Pokémon Mystery Dungeon Explorers of Sky](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pokemon%20Mystery%20Dungeon%20Explorers%20of%20Sky.txt)
 - [Pokémon Mystery Dungeon Rescue Team DX](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pokemon%20Mystery%20Dungeon%20Rescue%20Team%20DX.txt)
 - [Pokémon Sword and Shield](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Pok%C3%A9mon%20Sword%20%26%20Shield.txt)
@@ -25,6 +26,7 @@ To contribute, start a new issue with your game script file, or make a pull requ
 - [Usotsuki Hime to Moumoku Ouji](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Usotsuki%20Hime%20to%20Moumoku%20Ouji.txt)
 - [Valkyria Chronicles 4](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Valkyria%20Chronicles%204.txt)
 - [Xenoblade Chronicles: Definitive Edition](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Xenoblade%201%20DE.txt)
+- [Ys IX: Monstrum Nox](https://github.com/mathewthe2/Game2Text-GameScripts/blob/main/gamescripts/Ys%20IX%20-%20Monstrum%20Nox.txt)
 
 ## Usage
 
